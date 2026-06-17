@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Alan 👋<br><br>CS + Data Science at UW–Madison, graduating May 2026.<br>Incoming SWE at Amazon. Previously interned at Amazon and Intel.<br><br>I build tooling and evaluation for AI systems — memory services<br>for agents, benchmarks for world models, harness optimizers,<br>MCP scaffolding. Particularly interested in agents.<br><br>→ [harness.xyz](https://harness.xyz)
+### Hi, I'm Alan 👋<br><br>CS + Data Science at UW–Madison, graduating May 2026.<br>Incoming SWE at Amazon. Previously interned at Amazon and Intel.<br><br>I build tooling and evaluation for AI systems — memory services<br>for agents, benchmarks for world models, harness optimizers,<br>MCP scaffolding. Particularly interested in agents.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-rocque-0933bb27b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brehroc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alanrocque@outlook.com)
